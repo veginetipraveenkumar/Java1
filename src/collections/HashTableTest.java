@@ -21,4 +21,5 @@ public class HashTableTest {
         System.out.println(ht.containsValue(27));
         System.out.println(ht.values());
     }
+    //they are feature1
 }
