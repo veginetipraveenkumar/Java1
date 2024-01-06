@@ -21,6 +21,9 @@ public class HashTableTest {
         System.out.println(ht.containsValue(27));
         System.out.println(ht.values());
     }
-    //they are feature1
+<<<<<<< HEAD
     //someone asked the development
+=======
+    //they are feature1
+>>>>>>> feature1
 }
